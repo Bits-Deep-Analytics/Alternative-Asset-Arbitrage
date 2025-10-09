@@ -32,7 +32,7 @@ Key features include:
 - **Backend:** Python(Jupyter Notebook)  
 - **Data Processing:** Pandas, NumPy  
 - **Visualization:** Plotly, Matplotlib, Seaborn , ipywidgets  
-- **Data Fetching** Yfinance 
+- **Data Fetching:** Yfinance 
 ---
 
 ## ⚡ Installation
